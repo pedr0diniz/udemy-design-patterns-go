@@ -1,4 +1,4 @@
-## Summary
+## SOLID Summary
 
 ## Single Responsibility Principle
 - A type should only have one reason to change
